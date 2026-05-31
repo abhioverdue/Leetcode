@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0143-reorder-list) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0242-valid-anagram) |
