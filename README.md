@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0706-design-hashmap) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0567-permutation-in-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1768-merge-strings-alternately) |
