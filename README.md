@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Combinatorics
 |  |
