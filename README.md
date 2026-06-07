@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Greedy
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
