@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0705-design-hashset) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0706-design-hashmap) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0706-design-hashmap) |
@@ -525,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1095-find-in-mountain-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
