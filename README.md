@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
@@ -574,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0460-lfu-cache) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
