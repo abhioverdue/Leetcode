@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1929-concatenation-of-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Greedy
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
