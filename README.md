@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0895-maximum-frequency-stack) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0682-baseball-game) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
