@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1405-longest-happy-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1405-longest-happy-string) |
 ## Trie
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
