@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0502-ipo](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0473-matchsticks-to-square](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0212-word-search-ii) |
+| [0473-matchsticks-to-square](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
@@ -648,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
