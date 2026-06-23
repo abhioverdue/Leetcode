@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0981-time-based-key-value-store) |
+| [0997-find-the-town-judge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0997-find-the-town-judge) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1094-car-pooling) |
@@ -684,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
