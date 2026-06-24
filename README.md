@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
