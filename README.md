@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0743-network-delay-time) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1462-course-schedule-iv) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1462-course-schedule-iv) |
 ## Union-Find
@@ -753,4 +757,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
