@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1462-course-schedule-iv) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1462-course-schedule-iv) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
@@ -524,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
@@ -760,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
