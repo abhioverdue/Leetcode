@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## Depth-First Search
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
