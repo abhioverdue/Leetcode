@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
@@ -806,4 +809,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
