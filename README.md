@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0338-counting-bits) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0399-evaluate-division) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1137-n-th-tribonacci-number) |
