@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0846-hand-of-straights](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0860-lemonade-change) |
 | [1405-longest-happy-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1405-longest-happy-string) |
 ## Trie
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
