@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2392-build-a-matrix-with-conditions](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0860-lemonade-change) |
 | [1405-longest-happy-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1405-longest-happy-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Trie
 |  |
 | ------- |
