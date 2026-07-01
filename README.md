@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0752-open-the-lock) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0877-stone-game) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0739-daily-temperatures) |
