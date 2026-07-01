@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1094-car-pooling) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1834-single-threaded-cpu](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Stack
 |  |
 | ------- |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Merge Sort
 |  |
 | ------- |
@@ -881,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
