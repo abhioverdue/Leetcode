@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0706-design-hashmap) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -891,4 +893,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
