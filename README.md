@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0567-permutation-in-string) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0343-integer-break) |
