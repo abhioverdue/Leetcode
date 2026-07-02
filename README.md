@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0997-find-the-town-judge) |
+| [2013-detect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2013-detect-squares) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2013-detect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2013-detect-squares) |
 | [2392-build-a-matrix-with-conditions](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## Greedy
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2013-detect-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
+| [2013-detect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2013-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2013-detect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2013-detect-squares) |
 ## Radix Sort
 |  |
 | ------- |
