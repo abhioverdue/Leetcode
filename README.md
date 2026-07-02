@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0072-edit-distance) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0062-unique-paths) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0735-asteroid-collision) |
