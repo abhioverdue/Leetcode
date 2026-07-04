@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2392-build-a-matrix-with-conditions](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Shortest Path
 |  |
 | ------- |
