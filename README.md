@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1871-jump-game-vii) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1871-jump-game-vii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
 | ------- |
