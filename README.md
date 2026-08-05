@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph
 |  |
 | ------- |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
