@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1871-jump-game-vii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2013-detect-squares) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2392-build-a-matrix-with-conditions](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0895-maximum-frequency-stack) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Interactive
 |  |
 | ------- |
@@ -1007,4 +1010,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
