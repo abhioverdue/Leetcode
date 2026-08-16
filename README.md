@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2013-detect-squares) |
+| [2029-stone-game-ix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2392-build-a-matrix-with-conditions](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2707-extra-characters-in-a-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0860-lemonade-change) |
 | [1405-longest-happy-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1405-longest-happy-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2029-stone-game-ix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2029-stone-game-ix) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
 | [2013-detect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2013-detect-squares) |
+| [2029-stone-game-ix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Quickselect
 |  |
@@ -983,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2029-stone-game-ix) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1001,16 +1006,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
