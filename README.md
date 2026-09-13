@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0860-lemonade-change) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
