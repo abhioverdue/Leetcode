@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0836-rectangle-overlap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Enumeration
 |  |
