@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0856-score-of-parentheses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## Recursion
 |  |
@@ -1059,4 +1061,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/abhioverdue/Blind-75-LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
